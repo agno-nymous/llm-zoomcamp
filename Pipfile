@@ -14,6 +14,7 @@ ipywidgets = "*"
 python-dotenv = "*"
 requests = "*"
 tiktoken = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 
